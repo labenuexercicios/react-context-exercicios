@@ -1,4 +1,4 @@
-# react-context-exercicios
+# React Context - Exercícios
 
 ### Setup do projeto no Git
 Caso não lembre como funciona o processo de entrega, clique [**aqui**](https://github.com/labenuexercicios/instrucoes-entrega)
